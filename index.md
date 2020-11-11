@@ -3,10 +3,14 @@
 
 ## Apa itu Lifi?
 
+![Li-Fi](lifi.jpg)
+
 Light Fidelity atau yang sering di singkat LiFi merupakan teknologi yang komunikasi nirkabel dua arah. beda dengan teknologi Wi-Fi yang menggunakan sinyal radio untuk berkomunikasi LiFi memanfaatkan cahaya untuk berkomunikasi. kecepatan internet dari lifi bisa mengalahkan wifi dengan 224s lebih besar dari pada wifi. Lifi dibuat menyerupai bola lampu LED yang ada di rumah atau di kantor etsss tetapi Lampu LiFi dilengkapi dengan chip yang memodulasi cahaya untuk pengirim data optik.LIFi pertama kali di temukan oleh Harald Haas di tahun 2011
 
 ## Bagaimana Bisa Berkecepatan Tinggi Dan Bagaimana Cara Kerjanya
 Alasan mengapa lifi bisa sangat capat adalah karena lampu yang di lengkapi dengan LIFI mampu berganti menyala atau mati hanya dalam waktu beberapa nanodetik setara dengan 1Gits/s yang artinya lebih cepat 10 kali dari wifi yang hanya bisa mencapai kecepatan 100Mbits/s. Cara kerjanya lifi membutuhkan 2 penghubung Satu yang dari lifi sendiri dan yang satu lagi yang terdapat pada perngkat yang akan menerima pertama lifi akan mendapatkan internet dan mengirim data tersebut melalaui cahaya setelah itu cahaya tersebut di tangkap oleh photo detector yang ada di perangkat setelah itu data di proses 
+
+![CaraKErja](Carakerja.png)
 
 ## Kelebihan Dan Kekurangan LIFI
 Kelebihan
